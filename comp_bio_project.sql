@@ -112,5 +112,3 @@ CREATE TABLE IF NOT EXISTS motif_types(
     updated_at TIMESTAMP default now()
 );
 
--- ADD A NEW TABLE
-
